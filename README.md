@@ -11,7 +11,7 @@ Please, set the different boxes as your will, and click on "Save settings".
 
 <img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/71e1938e-eec1-4620-8181-1cf8c34ecee3" />
 
-if you are going to select the area please consider that to obtain a good region of interest you must select an area that includes a little empty space in the edge and also that covers all your circles, like it is shown the next image:
+if you are going to select the area please consider that to obtain a good region of interest you must select an area that includes a little empty space in the edge and also that covers all your circles, like it is shown in the following image:
 <img width="797" height="687" alt="image" src="https://github.com/user-attachments/assets/4297c30a-fad9-41f4-9b1a-2ecdd93571c9" />
 
 3-Now, an image of the initial time and the final time will pop-up on the screen, this will help you to corroborate if the time you have selected for the circles detection is ideal.
