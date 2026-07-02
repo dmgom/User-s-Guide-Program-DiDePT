@@ -1,6 +1,6 @@
 # User-s-Guide-Program-DiDePT
 ## This is a guide to handle the data analysis software of the DiDePT
-Before running the program it must be installed the language program Python 3.13.2 on the PC, which can be downloaded in: https://www.python.org/downloads/ or download the file 'main_for_tif.exe' found in the releases. You can use the folder 'photos_treatments_06052026' to do a first try.
+Before running the program it must be installed the language program Python 3.13.2 on the PC, which can be downloaded in: https://www.python.org/downloads/ or download the file 'main_for_tif.exe' found in the "releases" with the tag "main for tif" in the left of the screen. You can use the folder 'photos_treatments_06052026' to do a first try.
 
 Firstly, download the folder "DiDePT Analysis", in this you will find the necessary python programs to start the program. Please, put your image folder inside "DiDePT Analysis" folder once you have the images. 
 
@@ -13,7 +13,7 @@ Please, set the different boxes as your will, and click on "Save settings".
 
 <img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/71e1938e-eec1-4620-8181-1cf8c34ecee3" />
 
-if you are going to select the area please consider that to obtain a good region of interest you must select an area that includes a little empty space in the edges as well as covers all your circles, like it is shown in the following image:
+*If you are going to select the area please consider that to obtain a good region of interest you must select an area that includes a little empty space in the edges as well as covers all your circles, like it is shown in the following image:*
 
 <img width="797" height="687" alt="image" src="https://github.com/user-attachments/assets/4297c30a-fad9-41f4-9b1a-2ecdd93571c9" />
 
