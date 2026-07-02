@@ -34,12 +34,11 @@ if you are going to select the area please consider that to obtain a good region
 
 <img width="476" height="192" alt="image" src="https://github.com/user-attachments/assets/f18c5049-45bc-4c81-a4ba-5d95c173ad35" />
 
-<img width="560" height="422" alt="image" src="https://github.com/user-attachments/assets/6819d89d-0032-4981-b623-17c5b8e14c11" />
+<!--<img width="560" height="422" alt="image" src="https://github.com/user-attachments/assets/6819d89d-0032-4981-b623-17c5b8e14c11" />-->
 
 <img width="1486" height="497" alt="image" src="https://github.com/user-attachments/assets/b3cc1c97-407a-433e-8647-b19a568dfdba" />
 
-- An image signaling all the circles detected will appear, you can use to corroborate the program is able to detect the circles in your image. If you were expecting better detection please close the program and run it again and change the initial settings as you wish.
-- 
+- An image signaling all the circles detected will appear, you can use to corroborate the program is able to detect the circles in your image. If you were expecting better detection please close the program and run it again and change the initial settings as you wish. 
 <img width="627" height="492" alt="image" src="https://github.com/user-attachments/assets/dd88626a-e6e2-4a34-aef1-25a51ae644ec" />
 
 - Now the intensity plot will appear with the title "Results DiDePT", showing the fluorescence and the "Threshold" to differentiate positive samples from negative samples.
