@@ -24,33 +24,33 @@ Please, set the different boxes as your will, and click on "Save settings".
 
 <img width="1187" height="777" alt="image" src="https://github.com/user-attachments/assets/0a56529b-32e1-4466-9121-7144abdf83a0" />
 
---<4-It will pop-up a message to confirm the amount of treatments you will use.<img width="281" height="132" alt="image" src="https://github.com/user-attachments/assets/6f50b8f3-86bc-4528-8a66-0a2f970df67b" />>--
+<!--4-It will pop-up a message to confirm the amount of treatments you will use.<img width="281" height="132" alt="image" src="https://github.com/user-attachments/assets/6f50b8f3-86bc-4528-8a66-0a2f970df67b" />-->
  
-5-Select the cells corresponding to "Positive controls" (Blue), "Negative controls" (Red), and "Assays" (Green), and press "OK" when you are done or "Restart" if you want to remove your selections.
+4-Select the cells corresponding to "Positive controls" (Blue), "Negative controls" (Red), and "Assays" (Green), and press "OK" when you are done or "Restart" if you want to remove your selections.
 
 <img width="1231" height="627" alt="image" src="https://github.com/user-attachments/assets/5fa2db17-1e22-4fd1-ad1e-5ae192727f88" />
 
 <img width="1232" height="627" alt="image" src="https://github.com/user-attachments/assets/600a8aa6-e721-41d5-9b98-ad48fceb2a3e" />
 
-6-Another pop-up message will appear to confirm your selections.
+5-Another pop-up message will appear to confirm your selections.
 
 <img width="476" height="192" alt="image" src="https://github.com/user-attachments/assets/f18c5049-45bc-4c81-a4ba-5d95c173ad35" />
 
 <!--<img width="560" height="422" alt="image" src="https://github.com/user-attachments/assets/6819d89d-0032-4981-b623-17c5b8e14c11" />-->
 
-7- A plot with the filter applied to the image, a histogram of the pixels and the umbralization of the image will appear.
+6- A plot with the filter applied to the image, a histogram of the pixels and the umbralization of the image will appear.
 
 <img width="1486" height="497" alt="image" src="https://github.com/user-attachments/assets/b3cc1c97-407a-433e-8647-b19a568dfdba" />
 
-8- An image signaling all the circles detected will appear, you can use to corroborate the program is able to detect the circles in your image. If you were expecting better detection please close the program and run it again and change the initial settings as you wish.
+7- An image signaling all the circles detected will appear, you can use to corroborate the program is able to detect the circles in your image. If you were expecting better detection please close the program and run it again and change the initial settings as you wish.
 
 <img width="627" height="492" alt="image" src="https://github.com/user-attachments/assets/dd88626a-e6e2-4a34-aef1-25a51ae644ec" />
 
-9- Now the intensity plot will appear with the title "Results DiDePT", showing the fluorescence and the "Threshold" to differentiate positive samples from negative samples.
+8- Now the intensity plot will appear with the title "Results DiDePT", showing the fluorescence and the "Threshold" to differentiate positive samples from negative samples.
 
 <img width="1031" height="720" alt="image" src="https://github.com/user-attachments/assets/72cea982-4588-460d-8722-8d58efa23036" />
 
-10- Next, it will be shown plots with the slopes,  sigmoidal fit as well as a box plot.
+9- Next, it will be shown plots with the slopes,  sigmoidal fit as well as a box plot.
 
 <img width="1062" height="711" alt="image" src="https://github.com/user-attachments/assets/bfe19f37-4980-44bd-9e4d-5335de75fc13" />
 
