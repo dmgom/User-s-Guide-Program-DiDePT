@@ -36,21 +36,21 @@ Please, set the different boxes as your will, and click on "Save settings".
 
 <img width="476" height="192" alt="image" src="https://github.com/user-attachments/assets/f18c5049-45bc-4c81-a4ba-5d95c173ad35" />
 
-<!--<img width="560" height="422" alt="image" src="https://github.com/user-attachments/assets/6819d89d-0032-4981-b623-17c5b8e14c11" />-->
+<!--<img width="560" height="422" alt="image" src="https://github.com/user-attachments/assets/6819d89d-0032-4981-b623-17c5b8e14c11" />
 
 6- A plot with the filter applied to the image, a histogram of the pixels and the umbralization of the image will appear.
 
-<img width="1486" height="497" alt="image" src="https://github.com/user-attachments/assets/b3cc1c97-407a-433e-8647-b19a568dfdba" />
+<img width="1486" height="497" alt="image" src="https://github.com/user-attachments/assets/b3cc1c97-407a-433e-8647-b19a568dfdba" />-->
 
-7- An image signaling all the circles detected will appear, you can use to corroborate the program is able to detect the circles in your image. If you were expecting better detection please close the program and run it again and change the initial settings as you wish.
+6- An image signaling all the circles detected will appear, you can use to corroborate the program is able to detect the circles in your image. If you were expecting better detection please close the program and run it again and change the initial settings as you wish.
 
 <img width="627" height="492" alt="image" src="https://github.com/user-attachments/assets/dd88626a-e6e2-4a34-aef1-25a51ae644ec" />
 
-8- Now the intensity plot will appear with the title "Results DiDePT", showing the fluorescence and the "Threshold" to differentiate positive samples from negative samples.
+7- Now the intensity plot will appear with the title "Results DiDePT", showing the fluorescence and the "Threshold" to differentiate positive samples from negative samples.
 
 <img width="1031" height="720" alt="image" src="https://github.com/user-attachments/assets/72cea982-4588-460d-8722-8d58efa23036" />
 
-9- Next, it will be shown plots with the slopes,  sigmoidal fit as well as a box plot.
+8- Next, it will be shown plots with the slopes,  sigmoidal fit as well as a box plot.
 
 <img width="1062" height="711" alt="image" src="https://github.com/user-attachments/assets/bfe19f37-4980-44bd-9e4d-5335de75fc13" />
 
