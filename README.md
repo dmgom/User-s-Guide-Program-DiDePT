@@ -1,4 +1,4 @@
-# User-s-Guide-Program-DiDePT
+# User-Guide-Program-DiDePT
 ## This is a guide to handle the data analysis software of the DiDePT
 There are two options to run the program:
 1. Before running the program to install the language program Python 3.13.2 on the PC, which can be downloaded in: https://www.python.org/downloads/, and download the files in the folder DiDePT/DiDePT Analysis.
